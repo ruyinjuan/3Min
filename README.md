@@ -37,9 +37,9 @@ $号后面是git命令
 #### git操作步骤： git bash
 
 1.配置用户名和邮箱
- 
-    $ git config --global user.name "ruyinjuan"
-    $ git config --global user.email "ruyinjuan@163.com"
+
+    $ git config --global user.name "ruyinjuan"
+    $ git config --global user.email "ruyinjuan@163.com"
 
 2.克隆项目到本地
  
