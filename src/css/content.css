@@ -1,0 +1,34 @@
+/*content*/
+.content{
+    background:url(../imgs/bottom_bg.png) no-repeat center bottom;
+}
+.content .wrap{
+    width:1024px;
+    min-height:1100px;
+    background:transparent;
+    margin:-347px auto 0;
+}
+.video-box{
+    width:683px;
+    height:384px;
+}
+.video-con{
+    position:relative;
+    width:341px;
+    height:384px;
+    opacity: 0.85;
+    background: #22252A;
+}
+.video-con .period{
+    position:absolute;
+    left:-4px;
+    z-index:4;
+    margin-top:23px;
+    width:75px;
+    height:30px;
+    line-height:30px;
+    text-align:center;
+    color:#fff;
+    background-image: linear-gradient(-90deg, #1B6FFF 0%, #0041FC 100%);
+}
+/*content end*/
