@@ -22,15 +22,9 @@
     
     $ npm install gulp --save-dev
 
-7.安装 (include插件)
-
-    $ npm install gulp-file-include --save-dev
-
-8.运行
+7.运行
     
     $ gulp
-
-$号后面是git命令
 
 ----------------------------------------
 
