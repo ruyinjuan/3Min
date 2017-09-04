@@ -16,7 +16,7 @@ gulp 步骤：
     $ npm init
 
 5.安装npm
-    
+
     $ npm install --save-dev
 
 6.本地安装gulp：
@@ -24,7 +24,7 @@ gulp 步骤：
     $ npm install gulp --save-dev
 
 7.安装 (include插件)
-    
+
     $ npm install gulp-file-include --save-dev
 
 8.运行
