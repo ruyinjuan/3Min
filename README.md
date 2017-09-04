@@ -38,8 +38,8 @@ $号后面是git命令
 
 1.配置用户名和邮箱
  
-    $ git config --global user.name "Tocy"
-    $ git config --global user.email zyvj@qq.com
+    $ git config --global user.name "ruyinjuan"
+    $ git config --global user.email "ruyinjuan@163.com"
 
 2.克隆项目到本地
  
