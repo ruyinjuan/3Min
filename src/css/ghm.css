@@ -1,0 +1,117 @@
+body, html {
+  margin: 0;
+  padding: 0; }
+
+.mr20 {
+  margin-right: 20px; }
+
+.mb30 {
+  margin-bottom: 30px; }
+
+.mt15 {
+  margin-top: 15px; }
+
+.footer {
+  width: 100%;
+  height: 337px;
+  background: #333; }
+  .footer .footer-middle {
+    width: 1040px;
+    height: 100%;
+    margin: 0 auto; }
+    .footer .footer-middle .top-footer-box {
+      width: 100%;
+      height: 170px;
+      padding-top: 70px; }
+      .footer .footer-middle .top-footer-box .top-footer-content {
+        height: 170px; }
+        .footer .footer-middle .top-footer-box .top-footer-content h2 {
+          display: inline-block;
+          margin-bottom: 13px;
+          line-height: 30px;
+          font-size: 20px;
+          font-weight: 500;
+          letter-spacing: 1px;
+          color: #fff;
+          text-align: center; }
+          .footer .footer-middle .top-footer-box .top-footer-content h2 i.icons {
+            display: inline-block;
+            float: left;
+            width: 28px;
+            margin-right: 10px; }
+          .footer .footer-middle .top-footer-box .top-footer-content h2 i.icon-gy {
+            height: 30px;
+            background: url(../imgs/ic_gy.png) no-repeat; }
+          .footer .footer-middle .top-footer-box .top-footer-content h2 i.icon-cy {
+            height: 28px;
+            background: url(../imgs/ic_cy.png) no-repeat; }
+          .footer .footer-middle .top-footer-box .top-footer-content h2 i.icon-dh {
+            height: 29px;
+            background: url(../imgs/ic_dh.png) no-repeat; }
+        .footer .footer-middle .top-footer-box .top-footer-content p, .footer .footer-middle .top-footer-box .top-footer-content span {
+          color: white; }
+      .footer .footer-middle .top-footer-box .section-profile p {
+        text-indent: 25px; }
+      .footer .footer-middle .top-footer-box .top-footer-content:nth-child(1), .footer .footer-middle .top-footer-box .top-footer-content:nth-child(2), .footer .footer-middle .top-footer-box .top-footer-content:nth-child(3) {
+        border-right: 2px solid #575656; }
+      .footer .footer-middle .top-footer-box .top-footer-content:nth-child(1) {
+        width: 230px;
+        padding: 0 15px;
+        text-align: center; }
+        .footer .footer-middle .top-footer-box .top-footer-content:nth-child(1) p {
+          font-size: 12px;
+          letter-spacing: 0;
+          color: #FFFFFF;
+          opacity: 0.7;
+          text-align: left; }
+      .footer .footer-middle .top-footer-box .top-footer-content:nth-child(2) {
+        width: 164px;
+        padding: 0 36px 0 54px;
+        text-align: center; }
+        .footer .footer-middle .top-footer-box .top-footer-content:nth-child(2) .name-box {
+          text-align: left;
+          font-size: 14px;
+          margin-top: 5px;
+          opacity: .7; }
+          .footer .footer-middle .top-footer-box .top-footer-content:nth-child(2) .name-box span {
+            width: 45px;
+            display: inline-block;
+            margin-right: 10px;
+            line-height: 20px; }
+          .footer .footer-middle .top-footer-box .top-footer-content:nth-child(2) .name-box span:nth-child(3n) {
+            margin-right: 0; }
+      .footer .footer-middle .top-footer-box .top-footer-content:nth-child(3) {
+        width: 220px;
+        padding: 0 20px;
+        text-align: center;
+        font-size: 14px; }
+        .footer .footer-middle .top-footer-box .top-footer-content:nth-child(3) h3 {
+          font-size: 16px;
+          font-weight: 500;
+          color: #FFFFFF;
+          letter-spacing: 0.8px;
+          line-height: 24px;
+          margin-bottom: 19px;
+          margin-top: 6px; }
+        .footer .footer-middle .top-footer-box .top-footer-content:nth-child(3) p {
+          letter-spacing: 0;
+          margin-bottom: 8px;
+          opacity: 0.7;
+          font-size: 14px; }
+      .footer .footer-middle .top-footer-box .top-footer-content:nth-child(4) {
+        width: 133px;
+        padding: 0 60px;
+        text-align: center; }
+        .footer .footer-middle .top-footer-box .top-footer-content:nth-child(4) .qrcode {
+          width: 126px;
+          height: 126px;
+          margin-top: 10px; }
+    .footer .footer-middle .bottom-footer-box {
+      opacity: 0.3;
+      font-size: 13px;
+      color: #FFFFFF;
+      letter-spacing: 0;
+      line-height: 25px;
+      margin-top: 31px;
+      margin-bottom: 40px;
+      text-align: center; }

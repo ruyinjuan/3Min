@@ -1,0 +1,64 @@
+/*reviewPast*/
+.reviewPast-body .content .wrap.bg-white{
+  background:#fff;
+}
+.reviewPast-body{
+  background:none;
+}
+.reviewPast-body .content{
+  background: url(../imgs/bottom_bg.png) no-repeat center 730px;
+}
+.reviewPast-body .overseas-con{
+  margin:10px;
+  margin-bottom:40px;
+}
+.reviewPast-body .overseas-con li {
+  float: left;
+  margin-right: 9.3px;
+  width: 244px;
+  margin-bottom:20px;
+}
+.reviewPast-body .overseas-con li:nth-child(4n){
+  margin-right:0;
+}
+.reviewPast-body .overseas-con li .title{
+  font-size: 16px;
+  color: #22252A;
+  min-height:50px;
+  line-height: 24px;
+  margin-top:10px;
+  margin-right:30px;
+  overflow: inherit;
+  text-overflow: clip;
+  white-space: normal;
+}
+
+.pagination{
+  text-align:center;
+  margin-bottom:133px;
+}
+.pagination ul{
+  display:inline-block;
+  margin:auto;
+}
+.pagination li{
+  float:left;
+  height:30px;
+  line-height:30px;
+  border: 1px solid #E6E6E6;
+  text-align:center;
+  margin:0 5px;
+  cursor:pointer;
+}
+.pagination li.prev,.pagination li.next{
+  width:68px;
+}
+.pagination li.num{
+  width:30px;
+}
+.pagination li.num.active{
+  background: #CE2326;
+  color:#fff;
+  border-color:#CE2326;
+}
+/*reviewPast end*/
